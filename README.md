@@ -1,6 +1,6 @@
 # Hi, I'm @rudrasantadip
 
-**Full-Stack AI Developer | Machine Learning | Computer Vision | Backend & Android**
+**Full-Stack AI Developer | Machine Learning | Computer Vision**
 
 I’m passionate about building AI-powered applications and full-stack projects, experimenting with machine learning models, and turning ideas into working products.
 

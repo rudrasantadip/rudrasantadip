@@ -1,12 +1,53 @@
-- 👋 Hi, I’m @rudrasantadip
-- 👀 I’m interested in making projects, presenting them back 
-- 🌱 I’m currently working with SpringBoot, also an Android Developer primarily (using java)
-- 💞️ I am skilled in Java, Python, C ,  MySQl,Oracle 21c, MongoDb, experienced with SpringBoot,
-- Familiar with tools for containerization (Docker)
-- Familiar with working on Linux (Automation, Shell Scripting)
-- 📫 reach me at santadip9@gmail.com
+# Hi, I'm @rudrasantadip
 
-<!---
-rudrasantadip/rudrasantadip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full-Stack AI Developer | Machine Learning | Computer Vision | Backend & Android**
+
+I’m passionate about building AI-powered applications and full-stack projects, experimenting with machine learning models, and turning ideas into working products.
+
+I’m currently working with **Spring Boot, Machine Learning, Deep Learning, and Computer Vision**, while continuing my journey as an Android Developer using Java.
+
+## AI / Machine Learning
+
+- Machine Learning & Deep Learning
+- Neural Networks
+- Convolutional Neural Networks (CNNs)
+- Computer Vision
+- Object Detection
+- Image Classification
+- Image Processing
+- Model Training & Evaluation
+- Data Preprocessing
+- Feature Engineering
+- ML Model Deployment
+
+## Programming & Development
+
+- Java
+- Python
+- C
+- JavaScript
+- Spring Boot
+- Android Development
+- REST APIs
+
+## Databases
+
+- MySQL
+- Oracle 21c
+- MongoDB
+
+## Tools & Technologies
+
+- Docker & Containerization
+- Linux
+- Shell Scripting
+- Automation
+- Git & GitHub
+
+I enjoy working across the entire stack — from **designing and training neural networks and computer vision models to developing APIs, backend systems, and user-facing applications**.
+
+My goal is to become a strong **Full-Stack AI Engineer** capable of designing, building, training, and deploying intelligent systems from the ground up.
+
+## Contact
+
+Email: santadip9@gmail.com

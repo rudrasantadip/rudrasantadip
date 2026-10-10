@@ -22,7 +22,7 @@
 
 <br/>
 
-# 👋 Hi, I'm @rudrasantadip
+# Hi, I'm @rudrasantadip
 
 **Full-Stack AI Developer | Machine Learning | Computer Vision**
 
@@ -32,7 +32,7 @@ I’m currently working with **Spring Boot, Machine Learning, Deep Learning, and
 
 ---
 
-## 🧠 AI / Machine Learning
+## AI / Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,py&perline=6" alt="ML tools" />
@@ -40,14 +40,14 @@ I’m currently working with **Spring Boot, Machine Learning, Deep Learning, and
 
 | Area | Focus |
 |---|---|
-| 🧬 **Deep Learning** | Neural Networks, Convolutional Neural Networks (CNNs) |
-| 👁️ **Computer Vision** | Object Detection, Image Classification, Image Processing |
-| 🛠️ **ML Workflow** | Data Preprocessing, Feature Engineering, Model Training & Evaluation |
-| 🚀 **Deployment** | ML Model Deployment |
+| **Deep Learning** | Neural Networks, Convolutional Neural Networks (CNNs) |
+| **Computer Vision** | Object Detection, Image Classification, Image Processing |
+| **ML Workflow** | Data Preprocessing, Feature Engineering, Model Training & Evaluation |
+| **Deployment** | ML Model Deployment |
 
 ---
 
-## 💻 Programming & Development
+##  Programming & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,py,c,js,spring,androidstudio,react,flask&perline=8" alt="Languages and frameworks" />
@@ -57,7 +57,7 @@ Java · Python · C · JavaScript · Spring Boot · Android Development · REST 
 
 ---
 
-## 🗄️ Databases
+##  Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb&perline=6" alt="Databases" />
@@ -67,7 +67,7 @@ MySQL · Oracle 21c · MongoDB
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github&perline=6" alt="Tools" />
@@ -77,7 +77,7 @@ Docker & Containerization · Linux · Shell Scripting · Automation · Git & Git
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rudrasantadip&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
@@ -98,7 +98,7 @@ I enjoy working across the entire stack — from **designing and training neural
 
 My goal is to become a strong **Full-Stack AI Engineer** capable of designing, building, training, and deploying intelligent systems from the ground up.
 
-## 📫 Contact
+##  Contact
 
 <a href="mailto:santadip9@gmail.com">
   <img src="https://img.shields.io/badge/Email-santadip9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />

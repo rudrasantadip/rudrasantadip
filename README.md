@@ -28,7 +28,7 @@ I build AI-powered applications, train deep learning models, and turn ideas into
 - Training neural networks and CNNs from scratch
 - Building backend systems and REST APIs with Spring Boot and Flask
 - Experimenting with Docker, model deployment, and automation
-- Developing Android applications using Java
+
 
 > "In the shadows of complexity, intelligence takes shape."
 
